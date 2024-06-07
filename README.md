@@ -21,3 +21,4 @@
 [![](https://visitcount.itsvg.in/api?id=Omar-ElBolaky&icon=6&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-elbolaky&show_icons=true&locale=en" alt="omar-elbolaky" /></p>
